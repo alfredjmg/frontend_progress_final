@@ -1,4 +1,4 @@
 # frontend_progress_final
-Progress final layout
+Frontend development, landing page
 
 Link: https://alfredjmg.github.io/progress_final/
